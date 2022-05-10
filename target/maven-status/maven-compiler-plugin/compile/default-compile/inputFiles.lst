@@ -1,0 +1,15 @@
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\entity\UserModel.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\controllers\ExpenseController.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\repository\UserRepository.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\exceptions\GlobalExceptionHandler.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\services\ExpenseService.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\services\UserServiceImpl.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\entity\User.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\exceptions\ResourceNotFoundException.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\controllers\UserController.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\repository\ExpenseRepository.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\entity\Expense.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\entity\ErrorObject.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\ExpensetrackerapiApplication.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\services\UserService.java
+C:\formacion\expenseBackend-main\expenseBackend-main\src\main\java\com\ibandorta\expensetrackerapi\services\ExpenseServiceImpl.java
